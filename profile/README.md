@@ -13,8 +13,6 @@ KELOMPOK :
 
 ---
 
-# Dokumen SKPL
-[Klik disini untuk dokumen SKPL](https://docs.google.com/document/d/18TxE9tS1XyH4foZhcFsN8lEHBbseoiTqUPOORzePNWU/edit?usp=sharing)
-
-# Dokumen DPPL
-[Klik disini untuk dokumen DPPL](https://docs.google.com/document/d/1JKsO9-IChutEtjaE8FNm4uuvclsFs7PG/edit?usp=sharing&ouid=113480665748434914212&rtpof=true&sd=true)
+# Dokumen
+-   [SKPL](https://docs.google.com/document/d/18TxE9tS1XyH4foZhcFsN8lEHBbseoiTqUPOORzePNWU/edit?usp=sharing)   
+-   [DPPL](https://docs.google.com/document/d/1JKsO9-IChutEtjaE8FNm4uuvclsFs7PG/edit?usp=sharing&ouid=113480665748434914212&rtpof=true&sd=true)
